@@ -1,0 +1,20 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>icons/account-logout-64.ico</file>
+    <file>icons/activity-feed-32.ico</file>
+    <file>icons/activity-feed-48.ico</file>
+    <file>icons/close-window-64.ico</file>
+    <file>icons/dashboard-5-32.ico</file>
+    <file>icons/dashboard-5-48.ico</file>
+    <file>icons/group-32.ico</file>
+    <file>icons/group-48.ico</file>
+    <file>icons/home-4-32.ico</file>
+    <file>icons/home-4-48.ico</file>
+    <file>icons/menu-4-32.ico</file>
+    <file>icons/product-32.ico</file>
+    <file>icons/product-48.ico</file>
+    <file>icons/question-mark-4-32.ico</file>
+    <file>icons/search-13-48.ico</file>
+    <file>icons/user-48.ico</file>
+  </qresource>
+</RCC>
